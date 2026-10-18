@@ -1,0 +1,6 @@
+{
+  "name": "ScopeSnap AI",
+  "description": "Turn rough client inquiries into clear project scopes, feature deliverables, milestone timelines, pricing structures, and client-ready proposals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
