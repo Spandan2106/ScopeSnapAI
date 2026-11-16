@@ -1,4 +1,4 @@
-# ScopeSnapAI 🚀
+# ScopeSnapAI  🚀
 
 ScopeSnapAI is an AI-powered tool designed to simplify project scoping, requirements analysis, risk identification, and documentation generation using modern AI workflows.
 
