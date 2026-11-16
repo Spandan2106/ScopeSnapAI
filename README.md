@@ -4,6 +4,7 @@ ScopeSnapAI is an AI-powered tool designed to simplify project scoping, requirem
 
 ## ✨ Features
 
+
 - **Automated Scope Generation:** Transform high-level project ideas into structured, detailed project scopes.
 - **Smart Requirement Extraction:** Identify functional and non-functional requirements from project descriptions.
 - **AI-Powered Insights:** Identify potential project risks, scope creep, and resource constraints early.
