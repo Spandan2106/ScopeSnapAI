@@ -21,6 +21,7 @@ const ai = new GoogleGenAI({
   },
 });
 
+
 app.get('/api/health', (_req: Request, res: Response) => {
   res.json({ status: 'ok', time: new Date().toISOString() });
 });
