@@ -1,5 +1,6 @@
 # Contributing to ScopeSnapAI 🚀
 
+
 First of all, thank you for your interest in contributing to ScopeSnapAI! Every contribution, whether it's a bug fix, a new feature, an improvement to the documentation, or a suggestion, is appreciated.
 
 This guide explains how to contribute to the project effectively.
