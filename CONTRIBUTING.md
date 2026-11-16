@@ -19,6 +19,7 @@ This guide explains how to contribute to the project effectively.
 - [Security Guidelines](#-security-guidelines)
 - [Need Help?](#-need-help)
 
+
 ## 🤝 Code of Conduct
 
 We are committed to maintaining a welcoming, respectful, and collaborative environment for everyone.
